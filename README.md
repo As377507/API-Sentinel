@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # API Sentinel
 
 ## Overview
@@ -175,6 +174,4 @@ graph TD
 ## License
 This project is licensed under the MIT License.
 =======
-# API-Sentinel
-API Sentinel is a full-stack application designed to monitor, analyze, and secure API usage. It provides robust backend services for logging, rate-limiting, and IP blocking, along with a modern frontend dashboard for visualization and management.
->>>>>>> 5f449e12a641c2734280a414518ab24f4696c7a1
+
