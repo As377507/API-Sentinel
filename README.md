@@ -114,19 +114,6 @@ graph TD
 
 ---
 
-## Screenshots
-
-### Dashboard
-![Dashboard Screenshot](path/to/dashboard-screenshot.png)
-
-### API Logs
-![API Logs Screenshot](path/to/api-logs-screenshot.png)
-
-### Security Settings
-![Security Settings Screenshot](path/to/security-settings-screenshot.png)
-
----
-
 ## Next Steps
 1. **Security Enhancements**:
    - Replace `JWT_SECRET` with a strong, randomly generated key.
