@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables
+.env
+
+# Build Output
+dist/
+build/
+
+# Vite
+.vite/
+
+# IDE Specific
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Frontend Specific
+temp/
+*.cache
+
+# Prevent sensitive files from being pushed
+backend/.env
+frontend/.env
